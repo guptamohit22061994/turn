@@ -1,0 +1,52 @@
+/**
+font-family: 'TurnUltraLight';
+ */
+@font-face {
+  font-family: 'Turn';
+  src: url('fonts/woff2/Turnnuevo-UltraLight.woff2') format('woff2'),
+  url('fonts/woff/Turnnuevo-UltraLight.woff') format('woff'),
+  url('fonts/ttf/Turnnuevo-UltraLight.ttf') format('truetype'),
+  url("fonts/otf/Turnnuevo-UltraLight.otf") format("opentype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+/**
+font-family: 'TurnLight';
+ */
+@font-face {
+  font-family: 'Turn';
+  src: url('fonts/woff2/Turnnuevo-Light.woff2') format('woff2'),
+  url('fonts/woff/Turnnuevo-Light.woff') format('woff'),
+  url('fonts/ttf/Turnnuevo-Light.ttf') format('truetype'),
+  url("fonts/otf/Turnnuevo-Light.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+
+/**
+font-family: 'TurnRegular';
+ */
+@font-face {
+  font-family: 'Turn';
+  src: url('fonts/woff2/Turnnuevo-Regular.woff2') format('woff2'),
+  url('fonts/woff/Turnnuevo-Regular.woff') format('woff'),
+  url('fonts/ttf/Turnnuevo-Regular.ttf') format('truetype'),
+  url("fonts/otf/Turnnuevo-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/**
+font-family: 'TurnBold';
+ */
+@font-face {
+  font-family: 'Turn';
+  src: url('fonts/woff2/Turnnuevo-Bold.woff2') format('woff2'),
+  url('fonts/woff/Turnnuevo-Bold.woff') format('woff'),
+  url('fonts/ttf/Turnnuevo-Bold.ttf') format('truetype'),
+  url("fonts/otf/Turnnuevo-Bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
